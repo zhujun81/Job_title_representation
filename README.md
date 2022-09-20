@@ -32,8 +32,7 @@ Please cite our paper if you use our data or code:
 
 ```@inproceedings{zhu-hudelot-2022-towards,
     title = "Towards Job-Transition-Tag Graph for a Better Job Title Representation Learning",
-    author = "Zhu, Jun  and
-      Hudelot, Celine",
+    author = "Zhu, Jun  and Hudelot, Celine",
     booktitle = "Findings of the Association for Computational Linguistics: NAACL 2022",
     month = jul,
     year = "2022",
@@ -41,9 +40,8 @@ Please cite our paper if you use our data or code:
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2022.findings-naacl.164",
     doi = "10.18653/v1/2022.findings-naacl.164",
-    pages = "2133--2140",
-    abstract = "Works on learning job title representation are mainly based on \textit{Job-Transition Graph}, built from the working history of talents. However, since these records are usually messy, this graph is very sparse, which affects the quality of the learned representation and hinders further analysis. To address this specific issue, we propose to enrich the graph with additional nodes that improve the quality of job title representation. Specifically, we construct \textit{Job-Transition-Tag Graph}, a heterogeneous graph containing two types of nodes, i.e., job titles and tags (i.e., words related to job responsibilities or functionalities). Along this line, we reformulate job title representation learning as the task of learning node embedding on the \textit{Job-Transition-Tag Graph}. Experiments on two datasets show the interest of our approach.",
-}```
+    pages = "2133--2140"
+}
 
 
 
