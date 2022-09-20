@@ -30,7 +30,8 @@ Python packages required:
 # Reference
 Please cite our paper if you use our data or code:
 
-```@inproceedings{zhu-hudelot-2022-towards,
+```
+@inproceedings{zhu-hudelot-2022-towards,
     title = "Towards Job-Transition-Tag Graph for a Better Job Title Representation Learning",
     author = "Zhu, Jun  and Hudelot, Celine",
     booktitle = "Findings of the Association for Computational Linguistics: NAACL 2022",
